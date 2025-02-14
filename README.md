@@ -51,15 +51,15 @@
    - Researched and designed a **secure cloud architecture**, emphasizing compliance with best practices.  
    - Addressed vulnerabilities in multi-cloud environments and provided security recommendations.  
 
-6. **[DarkHotel Malware Analysis](https://github.com/Yog267/Projects/blob/main/DarkHotel%20Malware%20Analysis.pdf)**  
+6. **[DarkHotel Malware Analysis](https://github.com/Yog267/Projects/blob/main/DarklHotel%20Malware%20Analysis.pdf)**  
    - Investigated the **DarkHotel APT** malware, analyzing its targeted attack methods.  
    - Explored infection techniques used against executives and business travelers.  
 
-7. **[Forensic Investigation of Instagram Mobile App](https://github.com/Yog267/Projects/blob/main/Forensic%20Investigation%20of%20Instagram%20Mobile%20App.pdf)**  
+7. **[Forensic Investigation of Instagram Mobile App](https://github.com/Yog267/Projects/blob/main/Forensic%20Investigation%20of%20Instagram%20Mobile%20Application.pdf)**  
    - Performed **forensic analysis** on Instagram's mobile application.  
    - Extracted and analyzed digital evidence related to user activity, metadata, and security risks.  
 
-8. **[Password Strength Prediction using GBM, KNN, and SVM](https://github.com/Yog267/Projects/blob/main/Password%20Strength%20Prediction%20using%20GBM%2C%20KNN%2C%20SVM.pdf)**  
+8. **[Password Strength Prediction using GBM, KNN, and SVM](https://github.com/Yog267/Projects/blob/main/Password%20Strength%20Prediction%20using%20GBM%2C%20KNN%20%26%20SVM%20Models.pdf)**  
    - Implemented **machine learning models** (GBM, KNN, SVM) to predict password strength.  
    - Evaluated password entropy, common vulnerabilities, and suggested secure alternatives.  
 
