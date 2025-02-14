@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yogesh Anandhakumar
 
-🔒 **MSc Cybersecurity Graduate** | 🛡️ **Penetration Tester** | ☁️ **Cloud Security Specialist**
+🔒 **MSc Cybersecurity Graduate** | 🛡️ **Penetration Tester** | ☁️ **Cloud Security Engineer**
 
 ---
 
