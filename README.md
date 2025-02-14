@@ -43,9 +43,9 @@
    - Secured a cloud VM instance (EC2) and WordPress site.
    - Configured a **LAMP stack**, implemented WAF rules, and delivered a comprehensive security report.
 
-4. **[Bamital Malware Analysis](https://github.com/Yog267/Projects/blob/main/Bamital%20Malware%20Analysis.pdf)**  
-   - Conducted an in-depth analysis of the **Bamital malware**, focusing on its infection vectors and impact.  
-   - Examined malware behavior, persistence techniques, and mitigation strategies.  
+4. **[Bamital Botnet Analysis](https://github.com/Yog267/Projects/blob/main/Bamital%20Botnet%20Analysis.pdf)**  
+   - Conducted an in-depth analysis of the **Bamital botnet**, focusing on its infection vectors and impact.  
+   - Examined botnet behavior, persistence techniques, and mitigation strategies.  
 
 5. **[Cloud Architecture and Security](https://github.com/Yog267/Projects/blob/main/Cloud%20Architecture%20and%20Security.pdf)**  
    - Researched and designed a **secure cloud architecture**, emphasizing compliance with best practices.  
@@ -59,9 +59,9 @@
    - Performed **forensic analysis** on Instagram's mobile application.  
    - Extracted and analyzed digital evidence related to user activity, metadata, and security risks.  
 
-8. **[Password Strength Prediction Using Machine Learning](https://github.com/Yog267/Projects/blob/main/PASSWORD%20STRENGTH%20PREDICTION%20USING%20G.pdf)**  
-   - Implemented a **machine learning model** to predict password strength.  
-   - Evaluated password entropy, common vulnerabilities, and suggested secure alternatives.
+8. **[Password Strength Prediction using GBM, KNN, and SVM](https://github.com/Yog267/Projects/blob/main/Password%20Strength%20Prediction%20using%20GBM%2C%20KNN%2C%20SVM.pdf)**  
+   - Implemented **machine learning models** (GBM, KNN, SVM) to predict password strength.  
+   - Evaluated password entropy, common vulnerabilities, and suggested secure alternatives.  
 
 ---
 
