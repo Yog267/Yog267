@@ -78,7 +78,8 @@
 - **Certified Cloud Security Engineer (CCSE)** - Valid Till: September 2025  
 - **AWS Solutions Architect - Associate** - Valid Till: December 2025  
 - **Certified Hacking Forensic Investigator (CHFI)** - Valid Till: November 2025  
-- **EC-Council Certified Instructor (CEI)** - Issued: December 2024  
+- **EC-Council Certified Instructor (CEI)** - Issued: December 2024
+- **CompTIA IT Fundamentals (ITF+)** - Issued April 2025
 
 ---
 
