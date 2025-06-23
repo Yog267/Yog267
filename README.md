@@ -74,12 +74,12 @@
 
 ## 🌟 Certifications
 
-- **Certified Ethical Hacker (CEH v11)** - Valid Till: July 2025  
-- **Certified Cloud Security Engineer (CCSE)** - Valid Till: September 2025  
-- **AWS Solutions Architect - Associate** - Valid Till: December 2025  
-- **Certified Hacking Forensic Investigator (CHFI)** - Valid Till: November 2025  
-- **EC-Council Certified Instructor (CEI)** - Issued: December 2024
-- **CompTIA IT Fundamentals (ITF+)** - Issued April 2025
+- **[Certified Ethical Hacker (CEH v11)](https://github.com/Yog267/Certifications/blob/main/ECC-CEH-Certificate.pdf)** - Valid Till: July 2025  
+- **[Certified Cloud Security Engineer (CCSE)](https://github.com/Yog267/Certifications/blob/main/ECC-CCSE-Certificate.pdf)** - Valid Till: September 2025  
+- **[AWS Solutions Architect - Associate](https://github.com/Yog267/Certifications/blob/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)** - Valid Till: December 2025  
+- **[Certified Hacking Forensic Investigator (CHFI)](https://github.com/Yog267/Certifications/blob/main/ECC-CHFI-Certificate-ANSI.pdf)** - Valid Till: November 2025  
+- **[EC-Council Certified Instructor (CEI)](https://github.com/Yog267/Certifications/blob/main/ECC-CEI-Certificate.pdf)** - Issued: December 2024
+- **[CompTIA IT Fundamentals (ITF+)](https://github.com/Yog267/Certifications/blob/main/CompTIA%20IT%20Fundamentals%20(ITF%2B)%20Certification%20certificate.pdf)** - Issued April 2025
 
 ---
 
