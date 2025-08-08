@@ -36,7 +36,7 @@
 - Forensics, incident response, and vulnerability management  
 
 **Tools**  
-Nmap, Wireshark, Burp Suite, OpenVAS, Nessus, Metasploit, OWASP ZAP  
+ServiceNow, Nmap, Wireshark, Burp Suite, OpenVAS, Nessus, Metasploit, OWASP ZAP  
 
 ---
 
