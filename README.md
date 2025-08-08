@@ -1,5 +1,3 @@
-# Hi 👋, I'm Yogesh Anandhakumar
-
 # Hi 👋, I'm Yogesh Anandhakumar  
 
 💻 **IT Support Specialist** | 🔒 **MSc Cybersecurity (First-Class)** | ☁️ **Cloud Security Engineer**  
